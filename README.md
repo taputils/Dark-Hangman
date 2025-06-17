@@ -8,7 +8,7 @@
 
 You can download the latest release of the game directly from the link below:
 
-👉 [**Download Dark Hangman APK**](https://github.com/your-username/your-repo-name/releases/latest)
+👉 [**Download Dark Hangman APK**](https://github.com/taputils/Dark-Hangman/releases/)
 
 > 📱 Requires Android 8.0 (API 26) or higher.
 
